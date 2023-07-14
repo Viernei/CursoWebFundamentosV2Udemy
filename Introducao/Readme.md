@@ -1,0 +1,2 @@
+Olá Sou iniciante, comecei a estudar programação, meu primeiro curso está sendo o do serfrontend.com básico em html, css e java Script.
+Ainda não sei qual caminho seguir dentro da profissão de desenvolvedor, espero descobrir, ao longo da jornada.
